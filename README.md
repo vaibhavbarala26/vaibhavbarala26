@@ -79,3 +79,6 @@ I'm learning ML by building projects and experimenting with core concepts. Here'
 I love turning ideas into reality and explaining complex tech in the simplest way possible.
 
 ---
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/vaibhavbarala26/vaibhavbarala26/blob/output/github-contribution-grid-snake.svg)
