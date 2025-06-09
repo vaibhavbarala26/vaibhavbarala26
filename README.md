@@ -1,35 +1,39 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Barala</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast | Builder of Real-World Tools</h3>
+<h1 align="center">👋 Hi, I'm Vaibhav Barala</h1>
+<h3 align="center">🌐 Full Stack Developer | 🤖 ML Enthusiast | 🛠 Builder of Real-World Tools</h3>
 
 <p align="center">
-  <a href="https://vaibhavbarala.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://vaibhavbarala.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:vaibhavbarala8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5F5F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vaibhav-barala-b4a73b255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vaibhav-barala-b4a73b255" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
+> 💡 **Passionate about building scalable and intuitive web applications, and exploring the power of Machine Learning to solve real-world problems.**
+
+---
+
 ### 🚀 About Me
 
-- 🛠 I love building full stack apps with **React**, **Node.js**, and **PostgreSQL/MongoDB**
-- 🌱 Currently learning **Machine Learning** and exploring **AI-powered automation tools**
-- 🤝 I enjoy contributing to impactful projects that solve real-world problems
-- 💬 Ask me about:
-  - **Frontend**: React, TailwindCSS, Framer Motion
-  - **Backend**: Node.js, Express, SQL, MongoDB
-  - **ML**: Regression, Decision Trees, Classification, Model Evaluation
+- 🛠 I build full stack apps using **React**, **Node.js**, and **PostgreSQL/MongoDB**  
+- 🌱 Currently diving deep into **Machine Learning** and **AI-powered automation**  
+- 🤝 Always excited to contribute to projects that impact communities  
+- 💬 Ask me about:  
+  - **Frontend:** React, TailwindCSS, Framer Motion  
+  - **Backend:** Node.js, Express, SQL, MongoDB  
+  - **ML:** Regression, Decision Trees, Classification, Model Evaluation  
 
 ---
 
 ### 🧠 Machine Learning Journey
 
-I'm learning ML by building projects and experimenting with core concepts. Here's what I’ve covered so far:
+I'm currently learning ML by building practical projects and exploring core concepts. Here's my learning progress:
 
 - ✅ Supervised & Unsupervised Learning  
 - ✅ Linear & Logistic Regression  
@@ -39,28 +43,39 @@ I'm learning ML by building projects and experimenting with core concepts. Here'
 - ✅ PCA, t-SNE  
 - ✅ Confusion Matrix, ROC, Precision/Recall  
 - ✅ Intro to Neural Networks  
-- ✅ Feature Engineering & Data Cleaning
+- ✅ Feature Engineering & Data Cleaning  
 
 ---
 
 ### 💼 Projects
 
-| Project | Description |
-|--------|-------------|
+| 🚀 Project | 📝 Description |
+| ---------- | -------------- |
 | 👨‍🚀 **Safety App** | One-tap alert system with live location sharing & auto-call |
-| 🧠 **AI Speaking App** | English speaking improvement using AI dialogue |
-| 🎮 **Crypto CoinFlip Game** | Blockchain-based betting game using smart contracts |
+| 🧠 **AI Speaking App** | English speaking improvement with AI-powered dialogue |
+| 🎮 **Crypto CoinFlip Game** | Blockchain betting game using smart contracts |
 | 📈 **Weather Forecaster** | Voice-based weather reports via Gemini, OpenWeather & Azure TTS |
-| ✉️ **ColdMail SaaS** | Cold emailing tool with AI-generated messages based on CSV/resume |
-| 🍽️ **Restaurant Review App** | Full-stack app to write, read, and rate restaurants |
-| 🧑‍🏫 **Collaborative Whiteboard** | Real-time drawing app using Canvas + WebSockets with undo/redo |
+| ✉️ **ColdMail SaaS** | Cold emailing tool with AI-generated messages from CSV/resume |
+| 🍽️ **Restaurant Review App** | Full-stack app to write, read & rate restaurants |
+| 🧑‍🏫 **Collaborative Whiteboard** | Real-time drawing with Canvas + WebSockets, supports undo/redo |
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgresql,html,css,tailwind,firebase,git" />
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="React" src="https://skillicons.dev/icons?i=react" />
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="Express" src="https://skillicons.dev/icons?i=express" />
+  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" />
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=html" />
+  <img alt="CSS3" src="https://skillicons.dev/icons?i=css" />
+  <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
@@ -68,15 +83,15 @@ I'm learning ML by building projects and experimenting with core concepts. Here'
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavbarala26&show_icons=true&theme=tokyonight&hide=stars" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbarala26&theme=tokyonight" height="160" />
+  <img alt="Vaibhav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavbarala26&show_icons=true&theme=tokyonight&hide=stars" height="160" />
+  <img alt="Vaibhav's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbarala26&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 
-I love turning ideas into reality and explaining complex tech in the simplest way possible.
+> I love turning ideas into reality and explaining complex tech in the simplest way possible.  
 
 ---
 
